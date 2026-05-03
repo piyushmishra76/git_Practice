@@ -31,4 +31,6 @@ PS D:\PIYUSH KUMAR MISHRA\JOB_PREPARATION\GitAND_GitHub\three> git remote add or
 PS D:\PIYUSH KUMAR MISHRA\JOB_PREPARATION\GitAND_GitHub\three> git remote -v
 origin  https://github.com/piyushmishra76/git_Practice.git (fetch)
 origin  https://github.com/piyushmishra76/git_Practice.git (push)
-PS D:\PIYUSH KUMAR MISHRA\JOB_PREPARATION\GitAND_GitHub\three> 
+PS D:\PIYUSH KUMAR MISHRA\JOB_PREPARATION\GitAND_GitHub\three>
+
+add another file or folder 
