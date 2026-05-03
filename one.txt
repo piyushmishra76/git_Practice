@@ -34,3 +34,4 @@ origin  https://github.com/piyushmishra76/git_Practice.git (push)
 PS D:\PIYUSH KUMAR MISHRA\JOB_PREPARATION\GitAND_GitHub\three>
 
 add another file or folder 
+after setting up the origin to push always
